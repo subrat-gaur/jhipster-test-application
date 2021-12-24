@@ -45,7 +45,4 @@ relationship OneToMany {
   A to B
 }
 
-relationship OneToMany {
-  C to D
-}
     
